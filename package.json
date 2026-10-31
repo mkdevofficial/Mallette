@@ -1,0 +1,27 @@
+{
+  "name": "mallette-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "next": "^15.1.0",
+    "pdfjs-dist": "3.11.174",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
